@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const StyledDrum = styled.div`
   border: solid ${props => props.pressed ? '#2A2A2A' : '#F50934'};
+  border-bottom: solid ${props => props.pressed ? '#2A2A2A' : '#B50020'};
   width: 31.33333%;
   padding-top: 33.33333%;
   float: left;
