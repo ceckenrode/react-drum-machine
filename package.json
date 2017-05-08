@@ -2,7 +2,7 @@
   "name": "drums",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ceckenrode.github.io/React-Drum-Machine",
+  "homepage": "https://ceckenrode.github.io/react-drum-machine",
   "dependencies": {
     "lodash": "^4.17.4",
     "react": "^15.5.4",
